@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public class Rectangle01 { public static void main(String[] args) {
+public class Rectangle01 { 
+    public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     System.out.print("Masukkan jumlah baris: ");
     int baris = sc.nextInt();
